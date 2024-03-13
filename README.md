@@ -4,9 +4,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Matheus, <b>halfway through</b> graduating from <a href="https://ufal.br/"> <b>Federal University of Alagoas</b>, Brazil</a>. <br>
-    <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Data Science student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>currently working on a
-    project at <a href="https://im.ufal.br/laboratorio/led/"> <b>Estatistics and Data Science Lab (LED)</b>, UFAL</a> and always looking to find patterns of which are hidden in the data. I also love to teach people.
+    Hello, I am Matheus, <b>almost</b> graduating from <a href="https://ufal.br/"> <b>Federal University of Alagoas</b>, Brazil</a>. <br>
+    <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Deep Learning student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>currently working as a Data Science resident at <a href="laccan.ufal.br"> <b>Laboratório de Computação Científica e Análise Numérica ( LaCCAN )</b>, UFAL</a> and always looking to find patterns of which are hidden in the data. I also love teaching people.
   </em> 
   <br>
   <br>
@@ -15,7 +14,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br><br>
-- 🌱 Currently leaning about deep learning and Django.
+- 🌱 Currently researching Facial Kinship Recognition
 
 - 🏪 I'm from Maceió, Alagoas in Brazil
 
