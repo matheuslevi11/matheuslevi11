@@ -5,7 +5,7 @@
 <p align="center">
   <em>
     Hello, I am Matheus, <b>almost</b> graduating from <a href="https://ufal.br/"> <b>Federal University of Alagoas</b>, Brazil</a>. <br>
-    <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Deep Learning student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>currently working as a Data Science resident at <a href="laccan.ufal.br"> <b>Laboratório de Computação Científica e Análise Numérica ( LaCCAN )</b>, UFAL</a> and always looking to find patterns of which are hidden in the data. I also love teaching people.
+    <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Deep Learning student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>currently working as an AI Developer at <a href="edge.ufal.br"> <b>Centro de Inovação EDGE</b>, UFAL</a> and always looking to find patterns of which are hidden in the data. I also love teaching people.
   </em> 
   <br>
   <br>
