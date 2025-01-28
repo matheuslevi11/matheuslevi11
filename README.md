@@ -104,11 +104,6 @@
 
 <br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslevi11&theme=synthwave&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslevi11&layout=compact&langs_count=6&theme=synthwave"/>
-</div>
-
 <br />
 <details>
   <summary>
